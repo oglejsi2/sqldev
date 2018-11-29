@@ -1,4 +1,4 @@
 create or replace function helloWorld return varchar2 as
 begin
-	return 'Hello Wor v2';
+	return 'Hello Wor v3';
 end;
